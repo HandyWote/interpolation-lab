@@ -1,0 +1,6 @@
+[project]
+name = "interpolation-lab"
+version = "0.1.0"
+description = "计算方法作业二：拉格朗日插值与牛顿插值的比较"
+requires-python = ">=3.12"
+dependencies = ["matplotlib"]
